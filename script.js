@@ -23,15 +23,3 @@ range.addEventListener("input", function (event) {
   circle.style.width = event.target.value + "%";
   circle.style.height = event.target.value + "%";
 });
-
-// text.addEventListener("change", getInputColor);
-
-// console.log(btn);
-// console.log(btnE);
-// console.log(square);
-// console.log(inputText);
-// console.log(span);
-// console.log(spanRange);
-// console.log(circle);
-// console.log(range);
-// console.log(link);
